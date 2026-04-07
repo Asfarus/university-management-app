@@ -1,1 +1,1 @@
-# Extremly-cool-code-Assignment-5-
+# university-management-app
