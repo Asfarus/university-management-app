@@ -2,3 +2,4 @@
 Design Login Page
 #2 Backend Validation for Login Logic
 #3 Connect to Database
+#4 Register User Module
